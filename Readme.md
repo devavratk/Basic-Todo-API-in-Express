@@ -1,4 +1,4 @@
-##A simple Todo list API:##
+#A simple Todo list API:
 A simple CRUD implementation of Todo list API using Express.js.
 
 __Purpose:__
