@@ -9,7 +9,7 @@ server.js: Contains all server setup code.
 package.json: Contains all the dependencies
 items.js: Contains route implementation of item's creation, updation and deletion.
 
-___Implementation Instruction:___
+### Implementation Instruction:
 - Install npm on your system using "sudo apt install npm"
 - Create a TODO API folder and run "npm install" command
 - Type "npm start" on command line to start the server
