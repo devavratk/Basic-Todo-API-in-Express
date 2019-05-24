@@ -4,7 +4,7 @@ A simple CRUD implementation of Todo list API using Express.js.
 ### Purpose:
 To learn how the server is created and interacts with the routes in Express.
 
-__Files:__
+### Files:
 server.js: Contains all server setup code.
 package.json: Contains all the dependencies
 items.js: Contains route implementation of item's creation, updation and deletion.
