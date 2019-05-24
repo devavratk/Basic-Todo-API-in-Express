@@ -1,7 +1,7 @@
 # A simple Todo list API:
 A simple CRUD implementation of Todo list API using Express.js.
 
-__Purpose:__
+# Purpose:
 To learn how the server is created and interacts with the routes in Express.
 
 __Files:__
